@@ -2,6 +2,8 @@
 
 /*
     Homework: Week 1 - Day 3 - Algorithms #1
+    
+    DESCRIPTION:
     1. Create a function to print the duplicates in a list of strings
     public void findDuplicates(List<String> strings){};
 
@@ -18,6 +20,8 @@
 
 /*
     Homework: Week 1 - Day 3 - Algorithms #2
+    
+    DESCRIPTION:
     2. Create function to check if the string is a palindrome without using string.reverse() method
     public boolean checkPalindrome(String word){};
 
@@ -33,6 +37,8 @@
 
 /*
     Homework: Week 1 - Day 3 - Algorithms #3
+    
+    DESCRIPTION:
     3. Create a function that will print:
     "fizz" if the number is divisible by 3
     "buzz" if the number is divisible by 5
@@ -51,6 +57,8 @@
 
 /*
     Homework: Week 1 - Day 3 - Algorithms #4
+    
+    DESCRIPTION:
     4. Create a function to check if the two strings are Anagrams: Eg COAT and TACO would be anagrams
     public boolean checkAnagrams(String word1, String word2){};
     
@@ -65,6 +73,8 @@
 
 /*
     Homework: Week 1 - Day 3 - Algorithms #5
+    
+    DESCRIPTION:
     5. Print a multiplication table from 1 to 10 using multidimensional array
     Output
     1 2 3 4 5 6 7 8 9 10
