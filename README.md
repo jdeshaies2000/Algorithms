@@ -59,7 +59,10 @@
     buzz
     fizzbuzz
     MacBook-Pro-7:Documents filedemployee$
-    
+
+*/
+
+/*
 
     HOMEWORK: 
     Week 1 - Day 3 - Algorithms #4
@@ -76,6 +79,9 @@
     COAT and TACO are anagrams of each other
     MacBook-Pro-7:Documents filedemployee$
 
+*/
+
+/*
 
     HOMEWORK: 
     Week 1 - Day 3 - Algorithms #5
@@ -104,3 +110,5 @@
       9  18  27  36  45  54  63  72  81  90 
      10  20  30  40  50  60  70  80  90 100 
     MacBook-Pro-7:Documents filedemployee$
+
+*/
