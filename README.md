@@ -2,7 +2,8 @@
 
 /*
 
-    Homework: Week 1 - Day 3 - Algorithms #1
+    HOMEWORK: 
+    Week 1 - Day 3 - Algorithms #1
     
     DESCRIPTION:
     1. Create a function to print the duplicates in a list of strings
@@ -21,7 +22,8 @@
 
 /*
     
-    Homework: Week 1 - Day 3 - Algorithms #2
+    HOMEWORK: 
+    Week 1 - Day 3 - Algorithms #2
     
     DESCRIPTION:
     2. Create function to check if the string is a palindrome without using string.reverse() method
@@ -57,10 +59,10 @@
     buzz
     fizzbuzz
     MacBook-Pro-7:Documents filedemployee$
-*/
+    
 
-/*
-    Homework: Week 1 - Day 3 - Algorithms #4
+    HOMEWORK: 
+    Week 1 - Day 3 - Algorithms #4
     
     DESCRIPTION:
     4. Create a function to check if the two strings are Anagrams: Eg COAT and TACO would be anagrams
@@ -73,10 +75,10 @@
     MacBook-Pro-7:Documents filedemployee$ java CheckAnagram.java
     COAT and TACO are anagrams of each other
     MacBook-Pro-7:Documents filedemployee$
-*/
 
-/*
-    Homework: Week 1 - Day 3 - Algorithms #5
+
+    HOMEWORK: 
+    Week 1 - Day 3 - Algorithms #5
     
     DESCRIPTION:
     5. Print a multiplication table from 1 to 10 using multidimensional array
@@ -102,4 +104,3 @@
       9  18  27  36  45  54  63  72  81  90 
      10  20  30  40  50  60  70  80  90 100 
     MacBook-Pro-7:Documents filedemployee$
-*/
