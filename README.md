@@ -1,6 +1,7 @@
 # Algorithms
 
 /*
+
     Homework: Week 1 - Day 3 - Algorithms #1
     
     DESCRIPTION:
@@ -19,6 +20,7 @@
 */
 
 /*
+    
     Homework: Week 1 - Day 3 - Algorithms #2
     
     DESCRIPTION:
@@ -36,7 +38,9 @@
 */
 
 /*
-    Homework: Week 1 - Day 3 - Algorithms #3
+
+    HOMEWORK: 
+    Week 1 - Day 3 - Algorithms #3
     
     DESCRIPTION:
     3. Create a function that will print:
