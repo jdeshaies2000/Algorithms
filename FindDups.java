@@ -1,5 +1,5 @@
 /*
-    Homework: Week 1 - Day 1 - Algorithms #1
+    Homework: Week 1 - Day 3 - Algorithms #1
 
     1. Create a function to print the duplicates in a list of strings
     public void findDuplicates(List<String> strings){};
